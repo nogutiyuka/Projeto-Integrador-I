@@ -1,0 +1,14 @@
+Grupo tavares
+
+investigação contextual
+	contexto: ocorre no contexto de uso que o sistema terá;
+	parceria: colaboração de ambas as partes;
+	interpretação mútua: feedback do análista para o participante. analista repete o entendimento ao participante;
+	foco: foco aos tópicos que talvez precise de mais aprofundamendo;
+
+etapas: 
+	- definição do que espera alcançar;
+	- entrevista para organizar as ideas e requisições;
+	- demonstração em campo das atividades;
+	- conclusao da etapa pela documentação;
+
